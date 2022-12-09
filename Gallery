@@ -1,0 +1,124 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="sss.css">
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+
+}
+
+div.gallery:hover {
+  border: 5px solid red;
+}
+
+div.gallery img {
+  width: 100%;
+  height: 200;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+<ul>
+
+</ul>
+<h1 align=center>MCU Characters</h1>
+<div class="gallery">
+  <a target="_blank" href="1.png">
+    <img src="1.png" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Thor</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="2.png">
+    <img src="2.png" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Captain America</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="3.png">
+    <img src="3.png" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Iron Man</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="4.png">
+    <img src="4.png" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Hulk</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="5.png">
+    <img src="5.png" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Falcon</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="6.png">
+    <img src="6.png" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Black Widow</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="7.png">
+    <img src="7.png" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Scarlet Witch</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="8.png">
+    <img src="8.png" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Black Panther</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="9.png">
+    <img src="9.png" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Hawkeye</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="10.png">
+    <img src="10.png" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Loki</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="11.png">
+    <img src="11.png" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Iron Spider</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="12.png">
+    <img src="12.png" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Dr. Strange</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="13.png">
+    <img src="13.png" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Captain Marvel</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="14.png">
+    <img src="14.png" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Thanos (The Mad Titan)</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="15.png">
+    <img src="15.png" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">All Characters together</div>
+</div>
+</body>
+</html>
